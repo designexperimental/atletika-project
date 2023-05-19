@@ -16,6 +16,38 @@ wiki.creativecommons.org/Considerations_for_licensees
 
 =======================================================================
 
+testando listagens:
+
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item
+    <ol>
+      <li>Indented item</li>
+      <li>Indented item</li>
+    </ol>
+  </li>
+  <li>Fourth item</li>
+</ol>
+
+1. Listagem uma
+
+  a. asdfasdf
+  A. ASDF A
+  i. aosdfasd
+  
+  
+
+5. asdfasdf
+6. 
+
+3. a. 
+4. 
+5. asdfasd
+6. Listagem duas
+
+=======================================================================
+
 Creative Commons Attribution 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
