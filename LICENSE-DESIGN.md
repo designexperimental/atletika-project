@@ -4,16 +4,13 @@ Atribuição 4.0 Internacional
 
 A organização Creative Commons (“Creative Commons”) não é um escritório de advocacia e não presta serviços jurídicos ou aconselhamento jurídico. A distribuição das licenças públicas Creative Commons não estabelece uma relação advogado-cliente ou outra relação. A Creative Commons disponibiliza as suas licenças e informação relacionada “no estado em que se encontram” (“as-is”). A Creative Commons não oferece garantias relativamente às suas licenças, a qualquer material licenciado sob os seus termos e condições, ou a qualquer informação relacionada. A Creative Commons exonera-se, da forma mais ampla possível, de qualquer responsabilidade por danos decorrentes da sua utilização.
 
+**Utilizando as Licenças Públicas Creative Commons**
 
-Using Creative Commons Public Licenses
+As licenças públicas Creative Commons oferecem um conjunto padrão de termos e condições que criadores e outros detentores de direitos podem utilizar para compartilhar obras originais de autor, outros materiais sujeitos a direito de autor e direitos conexos, e certos outros direitos especificados na licença pública abaixo. As considerações a seguir são apenas para fins de informação, não são exaustivas e não fazem parte de nossas licenças.
 
-Creative Commons public licenses provide a standard set of terms and
-conditions that creators and other rights holders may use to share
-original works of authorship and other material subject to copyright
-and certain other rights specified in the public license below. The
-following considerations are for informational purposes only, are not
-exhaustive, and do not form part of our licenses.
+**Considerações para licenciantes**: As nossas licenças públicas são destinadas a utilização por aqueles que tenham autorização para conceder permissão pública para a utilização de material de maneiras que seriam, caso contrário, restringidas pelo direito de autor e direitos conexos, e certos outros direitos. As nossas licenças são irrevogáveis. Os licenciantes devem ler e entender os termos e condições da licença escolhida antes de aplicá-la. Os licenciantes devem assegurar todos os direitos necessários antes de aplicar as nossas licenças, de modo a que o público possa reutilizar o material conforme esperado. Os licenciantes devem identificar claramente qualquer material não sujeito à licença. Isso inclui outros materiais licenciados sob CC, ou materiais utilizados sob uma exceção ou limitação ao direito de autor e direitos conexos. Mais considerações para licenciantes.
 
+     
      Considerations for licensors: Our public licenses are
      intended for use by those authorized to give the public
      permission to use material in ways otherwise restricted by
