@@ -8,39 +8,11 @@ A organização Creative Commons (“Creative Commons”) não é um escritório
 
 As licenças públicas Creative Commons oferecem um conjunto padrão de termos e condições que criadores e outros detentores de direitos podem utilizar para compartilhar obras originais de autor, outros materiais sujeitos a direito de autor e direitos conexos, e certos outros direitos especificados na licença pública abaixo. As considerações a seguir são apenas para fins de informação, não são exaustivas e não fazem parte de nossas licenças.
 
-**Considerações para licenciantes**: As nossas licenças públicas são destinadas a utilização por aqueles que tenham autorização para conceder permissão pública para a utilização de material de maneiras que seriam, caso contrário, restringidas pelo direito de autor e direitos conexos, e certos outros direitos. As nossas licenças são irrevogáveis. Os licenciantes devem ler e entender os termos e condições da licença escolhida antes de aplicá-la. Os licenciantes devem assegurar todos os direitos necessários antes de aplicar as nossas licenças, de modo a que o público possa reutilizar o material conforme esperado. Os licenciantes devem identificar claramente qualquer material não sujeito à licença. Isso inclui outros materiais licenciados sob CC, ou materiais utilizados sob uma exceção ou limitação ao direito de autor e direitos conexos. Mais considerações para licenciantes.
+**Considerações para licenciantes**: As nossas licenças públicas são destinadas a utilização por aqueles que tenham autorização para conceder permissão pública para a utilização de material de maneiras que seriam, caso contrário, restringidas pelo direito de autor e direitos conexos, e certos outros direitos. As nossas licenças são irrevogáveis. Os licenciantes devem ler e entender os termos e condições da licença escolhida antes de aplicá-la. Os licenciantes devem assegurar todos os direitos necessários antes de aplicar as nossas licenças, de modo a que o público possa reutilizar o material conforme esperado. Os licenciantes devem identificar claramente qualquer material não sujeito à licença. Isso inclui outros materiais licenciados sob CC, ou materiais utilizados sob uma exceção ou limitação ao direito de autor e direitos conexos.
+wiki.creativecommons.org/Considerations_for_licensors
 
-     
-     Considerations for licensors: Our public licenses are
-     intended for use by those authorized to give the public
-     permission to use material in ways otherwise restricted by
-     copyright and certain other rights. Our licenses are
-     irrevocable. Licensors should read and understand the terms
-     and conditions of the license they choose before applying it.
-     Licensors should also secure all rights necessary before
-     applying our licenses so that the public can reuse the
-     material as expected. Licensors should clearly mark any
-     material not subject to the license. This includes other CC-
-     licensed material, or material used under an exception or
-     limitation to copyright. More considerations for licensors:
-     wiki.creativecommons.org/Considerations_for_licensors
-
-     Considerations for the public: By using one of our public
-     licenses, a licensor grants the public permission to use the
-     licensed material under specified terms and conditions. If
-     the licensor's permission is not necessary for any reason--for
-     example, because of any applicable exception or limitation to
-     copyright--then that use is not regulated by the license. Our
-     licenses grant only permissions under copyright and certain
-     other rights that a licensor has authority to grant. Use of
-     the licensed material may still be restricted for other
-     reasons, including because others have copyright or other
-     rights in the material. A licensor may make special requests,
-     such as asking that all changes be marked or described.
-     Although not required by our licenses, you are encouraged to
-     respect those requests where reasonable. More considerations
-     for the public:
-     wiki.creativecommons.org/Considerations_for_licensees
+**Considerações para o público**: Ao utilizar uma das nossas licenças públicas, o licenciante concede ao público permissão para utilizar o material licenciado sob termos e condições especificados. Se a permissão do licenciante não for necessária por qualquer razão – por exemplo, por ser aplicável qualquer exceção ou limitação ao direito de autor e direitos conexos – então essa utilização não é regida pela licença. As nossas licenças concedem somente permissões relativas a direito de autor e direitos conexos, e certos outros direitos que um licenciante tenha autoridade para conceder. A utilização do material licenciado pode ainda ser restringida por outras razões, incluindo porque terceiros têm direito de autor e direitos conexos, ou outros direitos sobre o material. Um licenciante pode fazer pedidos especiais, como solicitar que todas as alterações sejam marcadas ou descritas. Embora não exigido pelas nossas licenças, é recomendado que você respeite esses pedidos quando razoáveis. Mais considerações para o público.
+wiki.creativecommons.org/Considerations_for_licensees
 
 =======================================================================
 
