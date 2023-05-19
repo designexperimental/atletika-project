@@ -17,6 +17,33 @@ wiki.creativecommons.org/Considerations_for_licensees
 =======================================================================
 
 testando listagens:
+<ol type="a">
+  <li>Andrei
+    <ol type="1">
+      <li>Eduardo
+        <ol type="A">
+          <li>Souza
+            <ol type="i">
+              <li>Gomes</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+  
+
+
+
+
+
+Atribuição.
+
+Se Você Compartilhar o Material Licenciado (incluindo sob uma forma modificada), Você deve:
+
+manter o seguinte, se for fornecido pelo Licenciante com o Material Licenciado:
+identificação do(s) criador(es) do Material Licenciado e quaisquer outros designados para receber atribuição, de qualquer forma razoável solicitada pelo Licenciante (incluindo por pseudónimo, se designado);
 
 
 
