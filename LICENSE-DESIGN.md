@@ -16,6 +16,14 @@ wiki.creativecommons.org/Considerations_for_licensees
 
 =======================================================================
 
+<style type="text/css">  
+   ol {list-style-type: lower-alpha;}
+   ol ol { list-style-type: decimal;}
+   ol ol ol { list-style-type: upper-alpha;}
+   ol ol ol ol { list-style-type: lower-roman;}
+</style> 
+
+
 testando listagens:
 <ol type="a">
   <li>Andrei
