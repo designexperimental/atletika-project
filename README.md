@@ -1,1 +1,1 @@
-# atletika-project
+# projeto-atletika
