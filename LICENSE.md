@@ -1,9 +1,10 @@
-MIT License
+Licença MIT
 
-Copyright (c) 2023 Atletika Fitness Project
+Direitos Autorais ® 2023 Projeto Atletika
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+É concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e arquivos de documentação associados (o "software"), para lidar com o software sem restrição, incluindo, sem limitação, os direitos de uso, copiar, modificar, mesclar.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+O aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todas as cópias ou em partes substanciais do software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSO OU IMPLÍCITO, INCLUINDO, ENTRE OUTROS, AS GARANTIAS DE COMERCIALIZAÇÃO, APTIDÃO PARA UMA FINALIDADE ESPECÍFICA E NÃO VIOLAÇÃO. EM NENHUM CASO OS AUTORES OU DETENTORES DE DIREITOS AUTORAIS SERÃO RESPONSABILIZADOS POR QUALQUER RECLAMAÇÃO, DANOS OU OUTRO PREJUÍZO, SEJA EM UMA AÇÃO DE CONTRATO, DELITO OU NÃO, DECORRENTE DE, FORA OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO PROGRAMA.
+Referência em inglês: https://choosealicense.com/licenses/mit/
