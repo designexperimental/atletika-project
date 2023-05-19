@@ -18,7 +18,10 @@ wiki.creativecommons.org/Considerations_for_licensees
 
 testando listagens:
 
-<ol>
+
+
+
+<ol type="a">
   <li>First item</li>
   <li>Second item</li>
   <li>Third item
