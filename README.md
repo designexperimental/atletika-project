@@ -1,11 +1,7 @@
-# projeto-atletika
-
-
 # Projeto Atletika
 
 Esse é um projeto Open Source de Design de Experiência com o objetivo de compartilhar o conhecimento de Product Design com a comunidade. Todos os materiais são utilizados como demonstração para os métodos, técnicas e ferramentas da profissão. Fique livre para usar todos os materiais aqui disponíveis, com excessão da marca criada para o projeto. Sinta-se a vontade também para colaboração com esse Projeto, como padrão, trazendo seus insights e sugestões de melhorias para que outras pessoas possam ter acesso a esse conteúdo.
 
-\escape\
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
@@ -80,16 +76,14 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
+* **Design Lead** - *Autor do projeto* - Andrei (https://github.com/andreiomega)
 * **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença Creative Commons 4.0 Internacional - veja o arquivo LICENSE (https://github.com/designexperimental/projeto-atletika/blob/main/LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
@@ -100,4 +94,4 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+🎨 com ❤️ por Andrei (https://github.com/andreiomega) 😊
