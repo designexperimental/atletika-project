@@ -1,6 +1,6 @@
 # Projeto Atletika
 
-Esse é um projeto Open Source de Design de Experiência com o objetivo de compartilhar o conhecimento de Product Design com a comunidade. Todos os materiais são utilizados como demonstração para os métodos, técnicas e ferramentas da profissão. Fique livre para usar todos os materiais aqui disponíveis, com excessão da marca criada para o projeto. Sinta-se a vontade também para colaboração com esse Projeto, como padrão, trazendo seus insights e sugestões de melhorias para que outras pessoas possam ter acesso a esse conteúdo.
+Esse é um projeto Open Source de Design de Experiência com o objetivo de compartilhar o conhecimento de Product Design com a comunidade. Todos os materiais são utilizados como demonstração para os métodos, técnicas e ferramentas da profissão. Fique a vontade para usar todos os materiais aqui disponíveis, com excessão da marca criada para o projeto. Sinta-se a vontade também para colaboração com esse Projeto, trazendo seus insights e sugestões de melhorias para que outras pessoas possam ter acesso a esse conteúdo.
 
 ## 🚀 Começando
 
@@ -92,6 +92,7 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/de
 ## 📄 Licença
 
 Este projeto está sob a licença Creative Commons 4.0 Internacional - veja o arquivo LICENSE (https://github.com/designexperimental/projeto-atletika/blob/main/LICENSE) para detalhes.
+Para ler as cláusulas em português, [acesse aqui](https://creativecommons.org/licenses/by/4.0/legalcode.pt).
 
 ## 🎁 Expressões de gratidão
 
