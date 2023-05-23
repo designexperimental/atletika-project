@@ -62,9 +62,18 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+* (http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
+* [Figma](https://www.figma.com/) - Ferramenta de Design
+* []() - Ferramenta de colaboração
+* []() - Zoom - ferramenta d
+
+
+
+
+
+
+* [Miro](https://maven.apache.org/) - Gerente de Dependência
+* [Google Docs](https://rometools.github.io/rome/) - Usada para gerar RSS
 
 ## 🖇️ Colaborando
 
@@ -76,10 +85,9 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 ## ✒️ Autores
 
-* **Design Lead** - *Autor do projeto* - Andrei (https://github.com/andreiomega)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+* **Design Lead** - *Autor do projeto* - [Andrei](https://github.com/andreiomega)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+Você também pode ver a lista de todos os [colaboradores](https://github.com/designexperimental/projeto-atletika/blob/main/COLABORADORES.md) que contribuíram neste projeto.
 
 ## 📄 Licença
 
@@ -94,4 +102,4 @@ Este projeto está sob a licença Creative Commons 4.0 Internacional - veja o ar
 
 
 ---
-🎨 com ❤️ por Andrei (https://github.com/andreiomega) 😊
+🎨 com ❤️ por [Andrei](https://github.com/andreiomega) 😊
