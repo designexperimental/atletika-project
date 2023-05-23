@@ -92,15 +92,15 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/de
 ## 📄 Licença
 
 Este projeto está sob a licença Creative Commons 4.0 Internacional - veja o arquivo [LICENSE](https://github.com/designexperimental/projeto-atletika/blob/main/LICENSE) para detalhes.
-Para ler as cláusulas em português, [acesse aqui](https://creativecommons.org/licenses/by/4.0/legalcode.pt).
+Para ler as cláusulas em português, veja a [página da Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode.pt).
 
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
 * Convide alguém da equipe para uma coquinha geladinha 🥤;
 * Faça um agradecimento público 🏆;
-* Recomende meus cursos: [Design Experimental](https://designexperimental.com.br/cursos)
+* Recomende meus cursos: [Design Experimental](https://designexperimental.com.br/cursos).
 
 
----
+--
 🎨 com ❤️ por [Andrei](https://github.com/andreiomega) 😊
