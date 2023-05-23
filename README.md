@@ -90,7 +90,7 @@ Este projeto está sob a licença Creative Commons 4.0 Internacional - veja o ar
 * Conte a outras pessoas sobre este projeto 📢;
 * Convide alguém da equipe para uma coquinha geladinha 🥤;
 * Um agradecimento publicamente;
-* Recomendação dos meus cursos: [Design Experimental](https://designexperimental.com.br/cursos).
+* Recomendação dos meus cursos: [Design Experimental](https://designexperimental.com.br/cursos){:target="_blank"}
 * <a href="https://designexperimental.com.br/cursos/" target="_blank">Design Experimental</a>
 
 
