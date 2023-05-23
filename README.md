@@ -88,9 +88,9 @@ Este projeto está sob a licença Creative Commons 4.0 Internacional - veja o ar
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
+* Convide alguém da equipe para uma coquinha geladinha 🥤;
+* Um agradecimento publicamente;
+* Recomendação dos meus cursos: https://designexperimental.com.br/cursos.
 
 
 ---
