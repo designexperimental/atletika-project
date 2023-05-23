@@ -98,8 +98,8 @@ Para ler as cláusulas em português, [acesse aqui](https://creativecommons.org/
 
 * Conte a outras pessoas sobre este projeto 📢;
 * Convide alguém da equipe para uma coquinha geladinha 🥤;
-* Um agradecimento público 🏆;
-* Recomendação dos meus cursos: [Design Experimental](https://designexperimental.com.br/cursos)
+* Faça um agradecimento público 🏆;
+* Recomende meus cursos: [Design Experimental](https://designexperimental.com.br/cursos)
 
 
 ---
