@@ -16,4 +16,4 @@ We're currently looking for contributions for the following:
 - [ ] Revisão textual
 - [ ] Feedback
 
-Para mais informações, consulte nosso guia [CONTRIBUINDO.md](CONTRIBUTING.md).
+Para mais informações, consulte nosso guia [CONTRIBUINDO](CONTRIBUINDO.md).
