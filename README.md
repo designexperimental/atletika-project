@@ -26,7 +26,7 @@ Para ler as cláusulas em português, veja a [página da Creative Commons](https
 Se quer uma ajuda para ler todo os documentos em uma sequência lógica, segue o fio:
 
 1. Comece por aqui né, leia o [README](README.md) inteirinho primeiro;
-2. Ai siga para a [LICENCE](LICENCE). Veja que tem o link aqui em cima para a versão em Português;
+2. Ai siga para a [LICENSE](LICENSE). Veja que tem o link aqui em cima para a versão em Português;
 3. Depois vá para o [CÓDIGO DE CONDUTA](CODE-OF-CONDUCT.md);
 4. Entenda como contribuir lendo [CONTRIBUTING](CONTRIBUTING.md);
 5. Aí sim você dá uma olhada no [BRIEFING](docs/Atletika-Briefing.pdf);
