@@ -4,7 +4,7 @@ Primeira etapa do trabalho é fazer a "Pesquisa de Mesa".
 
 ## 📙 Contexto
 
-Você acabou de ler o briefing do Projeto e já tirou todas as dúvidas a respeito das informações necessárias para começar a projetar.
+Você acabou de ler o [briefing](../docs/Briefing-Atletika.pdf) do Projeto e já tirou todas as dúvidas a respeito das informações necessárias para começar a projetar.
 
 Para isso, vamos iniciar entendendo quem são as pessoas envolvidas no Projeto, para no caso de ser necessário consultar informações em outros momentos.
 
