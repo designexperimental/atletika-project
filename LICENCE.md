@@ -33,6 +33,18 @@ A organização Creative Commons (“Creative Commons”) não é um escritório
 4. Fourth item
 
 
+1.  2 spaces after a numbered list.
+    4 space indent for wrapped text.
+2.  2 spaces again.
+
+*   3 spaces after a bullet.
+    4 space indent for wrapped text.
+    1.  2 spaces after a numbered list.
+        8 space indent for the wrapped text of a nested list.
+    2.  Looks nice, don't it?
+*   3 spaces after a bullet.
+
+
 ## Utilizando as Licenças Públicas Creative Commons
 
 As licenças públicas Creative Commons oferecem um conjunto padrão de termos e condições que criadores e outros detentores de direitos podem utilizar para compartilhar obras originais de autor, outros materiais sujeitos a direito de autor e direitos conexos, e certos outros direitos especificados na licença pública abaixo. As considerações a seguir são apenas para fins de informação, não são exaustivas e não fazem parte de nossas licenças.
