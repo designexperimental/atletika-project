@@ -10,7 +10,7 @@ Por favor, leia o [CODIGO-DE-CONDUTA](https://github.com/designexperimental/proj
 
 * **Design Lead** - *Autor do projeto* - [Andrei](https://github.com/andreiomega)
 
-Você também pode ver a lista de todos os [Colaboradores](https://github.com/designexperimental/projeto-atletika/blob/main/COLABORADORES.md) deste projeto.
+Você também pode ver a lista de todos os [COLABORADORES](https://github.com/designexperimental/projeto-atletika/blob/main/COLABORADORES.md) deste projeto.
 
 ## 📄 Licença
 
