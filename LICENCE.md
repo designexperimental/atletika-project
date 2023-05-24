@@ -3,20 +3,17 @@
 A organização Creative Commons (“Creative Commons”) não é um escritório de advocacia e não presta serviços jurídicos ou aconselhamento jurídico. A distribuição das licenças públicas Creative Commons não estabelece uma relação advogado-cliente ou outra relação. A Creative Commons disponibiliza as suas licenças e informação relacionada “no estado em que se encontram” (“as-is”). A Creative Commons não oferece garantias relativamente às suas licenças, a qualquer material licenciado sob os seus termos e condições, ou a qualquer informação relacionada. A Creative Commons exonera-se, da forma mais ampla possível, de qualquer responsabilidade por danos decorrentes da sua utilização.
 
 1. bla bla bla
-    2. 1. bla bla bla
-            3. 1. bla bla bla
-                4. 1. bla bla bla
-                    5. asdfadsf
-5. hehehe
-    1. Sub sub item
-        1. testing
-        1. outro
-        2. outro outro
-            1. outros
-            2. deu pau
-    2. Sub sub item 2
-Sub item 3
-3. oooooh
+2. bla bla bla
+    1. outra lista
+    2. lista 
+    1. lita outra
+    
+1. bla bla bla
+2. bla bla bla
+    1. outra lista
+    2. lista 
+        1. lista outra    
+    
 
 ## Utilizando as Licenças Públicas Creative Commons
 
