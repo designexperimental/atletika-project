@@ -2,6 +2,15 @@
 
 A organização Creative Commons (“Creative Commons”) não é um escritório de advocacia e não presta serviços jurídicos ou aconselhamento jurídico. A distribuição das licenças públicas Creative Commons não estabelece uma relação advogado-cliente ou outra relação. A Creative Commons disponibiliza as suas licenças e informação relacionada “no estado em que se encontram” (“as-is”). A Creative Commons não oferece garantias relativamente às suas licenças, a qualquer material licenciado sob os seus termos e condições, ou a qualquer informação relacionada. A Creative Commons exonera-se, da forma mais ampla possível, de qualquer responsabilidade por danos decorrentes da sua utilização.
 
+1. bla bla bla
+2. hehehe
+  - Sub item 1
+  - Sub item 2
+      1. Sub sub item 1
+      2. Sub sub item 2
+  - Sub item 3
+3. oooooh
+
 ## Utilizando as Licenças Públicas Creative Commons
 
 As licenças públicas Creative Commons oferecem um conjunto padrão de termos e condições que criadores e outros detentores de direitos podem utilizar para compartilhar obras originais de autor, outros materiais sujeitos a direito de autor e direitos conexos, e certos outros direitos especificados na licença pública abaixo. As considerações a seguir são apenas para fins de informação, não são exaustivas e não fazem parte de nossas licenças.
