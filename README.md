@@ -23,7 +23,7 @@ Para ler as cláusulas em português, veja a [página da Creative Commons](https
 * Conte a outras pessoas sobre este projeto 📢;
 * Convide alguém da equipe para uma coquinha geladinha 🥤;
 * Faça um agradecimento público 🏆;
-* Recomende meus cursos: [Design Experimental](https://designexperimental.com.br/cursos).
+<!-- * Recomende meus cursos: [Design Experimental](https://designexperimental.com.br/cursos). -->
 
 --
 
