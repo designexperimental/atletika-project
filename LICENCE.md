@@ -23,7 +23,7 @@ Ao exercer os Direitos Licenciados (definidos abaixo), Você aceita e concorda e
 </ol>
   
 
-a. **Licença do Adaptador** significa a licença que Você aplica ao Seu Direito de Autor e Direitos Similares nas Suas contribuições ao Material Adaptado de acordo com os termos e condições desta Licença Pública.
+1. a. **Licença do Adaptador** significa a licença que Você aplica ao Seu Direito de Autor e Direitos Similares nas Suas contribuições ao Material Adaptado de acordo com os termos e condições desta Licença Pública.
 
 Direito de Autor e Direitos Similares significa direito de autor e/ou direitos similares estreitamente relacionados com o direito de autor, incluindo, mas não se limitando a, direitos de execução, radiodifusão, fixação de sons, e Direitos Sui Generis sobre Bases de Dados, independentemente de como sejam classificados ou categorizados. Para os fins desta Licença Pública, os direitos especificados na Cláusula 2(b)(1)-(2) não são Direito de Autor e Direitos Similares.
 Medidas Eficazes de Caráter Tecnológico significam aquelas medidas que, na ausência de direito para tanto, não podem ser contornadas em jurisdições cumprindo obrigações sob o Artigo 11 do Tratado da OMPI de Direito de Autor adotado em 20 de dezembro de 1996, e/ou acordos internacionais similares.
