@@ -13,6 +13,11 @@ Esse é um projeto **Open Source** de **Design de Experiência** com o objetivo 
 
 Agradeço pelo seu interese em participar. Será uma honra contar com sua ajuda e contribuição nesse projeto.
 
+Para obter mais orientações sobre como usar o Github para colaboração, consulte os links relacionados:
+
+* [Como fazer Pull Request](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+* [Como fazer Issues](https://docs.github.com/pt/issues/tracking-your-work-with-issues/about-issues)
+
 ## 👌 Como contribuir
 
 Se você quiser participar, entre em contato nos enviando um e-mail com o assunto "PROJETO OPEN-SOURCE" e exponha os seus motivos em querer fazer parte dessa comunidade.
@@ -21,10 +26,7 @@ Observe que temos um [Código de Conduta](CODE-OF-CONDUCT.md), siga-o em todas a
 
 ## 👍 Começando
 
-Para obter mais orientações sobre como começar, consulte os links relacionados:
 
-* [Como fazer Pull Request](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-* [Como fazer Issues](https://docs.github.com/pt/issues/tracking-your-work-with-issues/about-issues)
 
 ## ✒️ Autores
 
