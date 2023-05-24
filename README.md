@@ -4,7 +4,7 @@ Esse é um projeto **Open Source** de **Design de Experiência** com o objetivo 
 
 ## 🖇️ Colaborando
 
-Por favor, leia o [CODIGO-DE-CONDUTA](https://github.com/designexperimental/projeto-atletika/blob/main/CODIGO-DE-CONDUTA.md) para obter detalhes sobre o nosso código de conduta deste no Projeto.
+Por favor, leia o [CODIGO-DE-CONDUTA](CODIGO-DE-CONDUTA.md) para obter detalhes sobre o nosso código de conduta deste no Projeto.
 
 ## ✒️ Autores
 
