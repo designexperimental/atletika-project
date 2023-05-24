@@ -2,40 +2,13 @@
 
 A organização Creative Commons (“Creative Commons”) não é um escritório de advocacia e não presta serviços jurídicos ou aconselhamento jurídico. A distribuição das licenças públicas Creative Commons não estabelece uma relação advogado-cliente ou outra relação. A Creative Commons disponibiliza as suas licenças e informação relacionada “no estado em que se encontram” (“as-is”). A Creative Commons não oferece garantias relativamente às suas licenças, a qualquer material licenciado sob os seus termos e condições, ou a qualquer informação relacionada. A Creative Commons exonera-se, da forma mais ampla possível, de qualquer responsabilidade por danos decorrentes da sua utilização.
 
-1. Item 1
-2. Item 2
-3. Item 3
-    1. asdf asd
-    2. asdfasd f
-           1. asdfasd fasd
-           1. asdfasdfads
-               1. asdfasdf
-           2. asdfasdf
-           3. asdf
-
 
 1. nível 1
     1. nível dois: 2 spaços
-     1. nível 3: 5 espaços
-        1. nível 4: 8 espaços
-1. nível sei lá: 9 espaços
+      1. nível tres: 6 espaços
+        1. nível quatro: 8 espaços
+1. nível cinco: 9 espaços
 1. 
-
-
-1. Lists can be nested
-    * Four spaces
-        1. Eight spaces
-            1. Twelve spaces
-2. And back
-
-- 1
-  - 1.1
-     - 1.1.1
-     - 1.1.2
-        - 1.1.1.1
-        - 1.1.1.2
-  - 1.2
-- 2
 
 
 
