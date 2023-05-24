@@ -1,27 +1,13 @@
 ## 🤝 Colaboradores
 
-**UX Research**
+### UX RESEARCH
 
-*Colaboradora Assistente* - 
-*Colaboradora Assistente* - [Pedro](https://github.com/)
+**Desk Research**
+[Pedro](https://github.com/)
+[Pryscilla](https://github.com/)
 
+**Análise Heurística**
 
-<!-- haha -->
+**Grupo de foco**
 
-###[Pryscilla](https://github.com/)
-
-*Desk Research*
-
-**[Pedro](https://github.com/)**
-
-*Desk Research*
-
-
-
-## Pryscilla
-
-[Repositório](https://github.com/)
-
-### Entregáveis
-
-*Desk Research*
+**Persona**
