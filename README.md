@@ -24,6 +24,6 @@ Para ler as cláusulas em português, veja a [página da Creative Commons](https
 * Faça um agradecimento público 🏆;
 * Recomende meus cursos: [Design Experimental](https://designexperimental.com.br/cursos).
 
-
 --
+
 🎨 com ❤️ por [Andrei](https://github.com/andreiomega) 😊
