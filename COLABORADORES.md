@@ -4,11 +4,10 @@
 
 #### \*Em ordem alfabética
 
-* Bruna<!--(https://github.com/PERFIL)-->
-* Danieli<!--(https://github.com/PERFIL) -->
-* Pedro<!--(https://github.com/PERFIL) -->
-* Priscylla<!--(https://github.com/PERFIL) -->
-* [Você](#)
+* [Bruna](#)
+* [Danieli](#)
+* [Pedro](#)
+* [Priscylla](#)
 
 ## Gostaria de participar desta lista. Como posso ajudar o projeto?
 
