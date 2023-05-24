@@ -20,7 +20,23 @@ A organização Creative Commons (“Creative Commons”) não é um escritório
             1. outra outra
             2. ASDFASDF
                 1. FIM
-    
+
+1. Item 1
+2. Item 2
+3. Item 3
+    1. Sub item 1
+    2. Sub item 2
+        1 Sub sub item 1
+        1 Sub sub item 2
+            1 Sub sub sub item 1
+            1 Sub sub sub item 2
+                - [ ] Sub sub sub sub item 1
+                - [x] Sub sub sub sub item 2
+                - [~] Sub sub sub sub item 3
+    3. Sub item 3
+4. Item 3
+
+
 
 ## Utilizando as Licenças Públicas Creative Commons
 
