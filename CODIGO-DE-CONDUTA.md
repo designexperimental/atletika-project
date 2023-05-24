@@ -37,7 +37,7 @@ Exemplos de representação da nossa comunidade incluem usar um endereço de e-m
 
 ## Aplicação
 
-Ocorrências de comportamentos abusivos, de assédio ou que sejam inaceitáveis por qualquer outro motivo poderão ser reportadas para a liderança da comunidade, responsável pela aplicação, via contato cursos@designexperimental.com.br.
+Ocorrências de comportamentos abusivos, de assédio ou que sejam inaceitáveis por qualquer outro motivo poderão ser reportadas para a liderança da comunidade, responsável pela aplicação, via contato contato@iniciativaux.com.br.
 Todas as reclamações serão revisadas e investigadas imediatamente e de maneira justa.
 
 A liderança da comunidade tem a obrigação de respeitar a privacidade e a segurança de quem reportar qualquer incidente.
