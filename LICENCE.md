@@ -17,7 +17,11 @@ Ao exercer os Direitos Licenciados (definidos abaixo), Você aceita e concorda e
 
 ### Cláusula 1 – Definições.
 
-a. **Material Adaptado** significa material sujeito a Direito de Autor e Direitos Similares que é derivado de ou baseado no Material Licenciado e no qual o Material Licenciado é traduzido, alterado, arranjado, transformado, ou de outra forma modificado de uma maneira que requeira permissão com base no Direito de Autor e Direitos Similares detidos pelo Licenciante. Para os fins desta Licença Pública, quando o Material Licenciado seja uma obra musical, performance, ou fonograma, é sempre produzido Material Adaptado quando o Material Licenciado é sincronizado em relação temporal com uma imagem em movimento.
+<ol style="ist-style-type: lower-alpha;">
+  <li>**Material Adaptado** significa material sujeito a Direito de Autor e Direitos Similares que é derivado de ou baseado no Material Licenciado e no qual o Material Licenciado é traduzido, alterado, arranjado, transformado, ou de outra forma modificado de uma maneira que requeira permissão com base no Direito de Autor e Direitos Similares detidos pelo Licenciante. Para os fins desta Licença Pública, quando o Material Licenciado seja uma obra musical, performance, ou fonograma, é sempre produzido Material Adaptado quando o Material Licenciado é sincronizado em relação temporal com uma imagem em movimento.
+  </li>
+</ol>
+  
 
 a. **Licença do Adaptador** significa a licença que Você aplica ao Seu Direito de Autor e Direitos Similares nas Suas contribuições ao Material Adaptado de acordo com os termos e condições desta Licença Pública.
 
