@@ -24,10 +24,6 @@ Se você quiser participar, entre em contato nos enviando um e-mail com o assunt
 
 Observe que temos um [Código de Conduta](CODE-OF-CONDUCT.md), siga-o em todas as suas interações com o projeto.
 
-## 👍 Começando
-
-
-
 ## ✒️ Autores
 
 * **Design Lead** - *Autor do projeto* - [Andrei](https://github.com/andreiomega)
