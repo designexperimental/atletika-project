@@ -9,7 +9,9 @@
 <!-- haha -->
 
 **[Pryscilla](https://github.com/)**
+
 *Desk Research*
 
 **[Pedro](https://github.com/)**
+
 *Desk Research*
