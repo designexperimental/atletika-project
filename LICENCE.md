@@ -4,11 +4,9 @@ A organização Creative Commons (“Creative Commons”) não é um escritório
 
 1. bla bla bla
 2. hehehe
-  - Sub item 1
-  - Sub item 2
-      1. Sub sub item 1
-      2. Sub sub item 2
-  - Sub item 3
+1. Sub sub item 1
+2. Sub sub item 2
+Sub item 3
 3. oooooh
 
 ## Utilizando as Licenças Públicas Creative Commons
