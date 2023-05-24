@@ -24,7 +24,7 @@ Para obter mais orientações sobre como usar o Github para colaboração, consu
 
 ## 📄 Licença
 
-Este projeto está sob a licença Creative Commons 4.0 Internacional - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está sob a licença Creative Commons 4.0 Internacional - veja o arquivo [LICENSE](LICENSE) (em inglês) para detalhes.
 
 Para ler as cláusulas em português, veja a [página da Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode.pt).
 
