@@ -1,9 +1,5 @@
 # 🤝 Colaboradores
 
-### EM CONSTRUÇÃO
-
-
-
 # Contributors
 
 ## Agradecimentos especiais por todas as pessoas que ajudaram esse projeto até agora:
