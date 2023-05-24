@@ -16,8 +16,6 @@ Esse é um projeto Open Source de Design de Experiência com o objetivo de compa
 * Desk Research (pesquisa referencial)
 * Proto-Persona
 
-### Faça todos os exercícios usando o Miro
-
 Com esses 3 entregáveis, conseguimos dar o pontapé inicial no projeto, ter o entendimento sobre o contexto do produto e ter uma ideia de quem são as pessoas usuárias.
 
 ## Próximos passos
