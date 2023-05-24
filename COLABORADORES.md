@@ -15,3 +15,8 @@
 **[Pedro](https://github.com/)**
 
 *Desk Research*
+
+
+## 🖇️ Colaborando
+
+Por favor, lei
