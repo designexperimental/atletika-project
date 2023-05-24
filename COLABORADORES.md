@@ -17,6 +17,6 @@
 *Desk Research*
 
 
-## 🖇️ Colaborando
+### Pryscilla
 
 Por favor, lei
