@@ -14,7 +14,7 @@ Para isso, vamos iniciar entendendo quem são as pessoas envolvidas no Projeto, 
 * Desk Research (pesquisa referencial)
 * Proto-Persona
 
-Com esses 3 entregáveis, conseguimos dar o pontapé inicial no projeto, ter o entendimento sobre o contexto do produto e ter uma ideia de quem são as pessoas usuárias.
+Com esses 3 entregáveis, conseguimos dar o pontapé inicial no projeto, ter o entendimento sobre o **Contexto Expecífico de Uso** do produto e ter uma ideia de quem são os **Usuários Específicos**.
 
 ## 🤸‍♀️ Próximos passos
 
