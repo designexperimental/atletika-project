@@ -9,7 +9,7 @@
 * [Pedro](#)
 * [Priscylla](#)
 
-## Gostaria de participar desta lista. Como posso ajudar o projeto?
+## Gostaria de participar desta lista e ajudar o projeto?
 
 Atualmente, procuramos contribuições para:
 
