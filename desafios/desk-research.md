@@ -11,6 +11,7 @@ Para isso, vamos iniciar entendendo quem são as pessoas envolvidas no Projeto, 
 ## 🎁 Entregáveis
 
 * Mapa de Stakeholders
+* Matriz CSD
 * Desk Research (pesquisa referencial)
 * Proto-Persona
 
