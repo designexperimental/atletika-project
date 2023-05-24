@@ -9,10 +9,10 @@
 
 ## Gostaria de participar desta lista. Como posso ajudar o projeto?
 
-We're currently looking for contributions for the following:
+Atualmente, procuramos contribuições para:
 
-- [ ] Bug fixes
-- [ ] Translações
+- [ ] Correção de erros
+- [ ] Traduções
 - [ ] Revisão textual
 - [ ] Feedback
 
