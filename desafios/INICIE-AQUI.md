@@ -12,7 +12,7 @@ Para isso, você precisa demonstrar:
 
 Parece muita coisa né? E é sim!
 
-Mas você pode começar resultado isso agora:
+Mas você pode começar isso agora:
 
 1. Use os desafios específicos de cada etapa do Projeto Atletika para entender o contexto, objetivo e projetar boas soluções;
 2. Os desafios são de um projeto real que possui: **Requisitos**, **Restrições** e **Riscos**. Leve isso em consideração;
