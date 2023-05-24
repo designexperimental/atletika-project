@@ -17,9 +17,7 @@
 *Desk Research*
 
 
-### Pryscilla
 
-
-## Colaborando
+## Pryscilla
 
 Por favor, leia
