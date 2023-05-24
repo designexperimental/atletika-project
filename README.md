@@ -15,6 +15,7 @@ Você também pode ver a lista de todos os [COLABORADORES](https://github.com/de
 ## 📄 Licença
 
 Este projeto está sob a licença Creative Commons 4.0 Internacional - veja o arquivo [LICENSE](https://github.com/designexperimental/projeto-atletika/blob/main/LICENSE) para detalhes.
+
 Para ler as cláusulas em português, veja a [página da Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode.pt).
 
 ## 🎁 Expressões de gratidão
