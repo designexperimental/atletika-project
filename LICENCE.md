@@ -23,6 +23,29 @@ Ao exercer os Direitos Licenciados (definidos abaixo), Você aceita e concorda e
 </ol>
   
 
+
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item
+    <ol>
+      <li>Indented item</li>
+      <li>Indented item</li>
+    </ol>
+  </li>
+  <li>Fourth item</li>
+</ol>
+
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
+
+
+
 1. a. **Licença do Adaptador** significa a licença que Você aplica ao Seu Direito de Autor e Direitos Similares nas Suas contribuições ao Material Adaptado de acordo com os termos e condições desta Licença Pública.
 
 Direito de Autor e Direitos Similares significa direito de autor e/ou direitos similares estreitamente relacionados com o direito de autor, incluindo, mas não se limitando a, direitos de execução, radiodifusão, fixação de sons, e Direitos Sui Generis sobre Bases de Dados, independentemente de como sejam classificados ou categorizados. Para os fins desta Licença Pública, os direitos especificados na Cláusula 2(b)(1)-(2) não são Direito de Autor e Direitos Similares.
