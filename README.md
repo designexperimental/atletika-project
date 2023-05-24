@@ -17,14 +17,14 @@ Agradeço pelo seu interese em participar. Será uma honra contar com sua ajuda 
 
 Se você quiser participar, entre em contato nos enviando um e-mail com o assunto "PROJETO OPEN-SOURCE" e exponha os seus motivos em querer fazer parte dessa comunidade.
 
-Observe que temos um [Código de Conduta](CODIGO-DE-CONDUTA.md), siga-o em todas as suas interações com o projeto.
+Observe que temos um [Código de Conduta](CODE-OF-CONDUCT.md), siga-o em todas as suas interações com o projeto.
 
 ## 👍 Começando
 
 Para obter mais orientações sobre como começar, consulte os links relacionados:
 
-* [Como fazer Pull Request](PULL_REQUEST_TEMPLATE.md) (https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-* [Como fazer Issues]([ISSUE_TEMPLATE.md](https://docs.github.com/pt/issues/tracking-your-work-with-issues/about-issues))
+* [Como fazer Pull Request](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+* [Como fazer Issues](https://docs.github.com/pt/issues/tracking-your-work-with-issues/about-issues)
 
 ## ✒️ Autores
 
