@@ -22,6 +22,6 @@ Com esses 3 entregáveis, conseguimos dar o pontapé inicial no projeto, ter o e
 2. Informe ao grupo de estudos sobre sua atualização.
 3. Caso alguma entregável seja aceitável, pediremos para você fazer um Pull Request no Projeto.
 4. Crie uma apresentação no seu Medium ou Notion e compartilhe com a equipe para coletar feedbacks.
-5. Colabora e compartilhe!
+5. Colabore e compartilhe!
 
 Boa sorte!
