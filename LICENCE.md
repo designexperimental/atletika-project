@@ -4,9 +4,9 @@ A organização Creative Commons (“Creative Commons”) não é um escritório
 
 1. bla bla bla
     2. 1. bla bla bla
-      3. 1. bla bla bla
-        4. 1. bla bla bla
-          5. asdfadsf
+            3. 1. bla bla bla
+                4. 1. bla bla bla
+                    5. asdfadsf
 5. hehehe
     1. Sub sub item
         1. testing
