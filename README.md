@@ -8,6 +8,29 @@ Esse é um projeto **Open Source** de **Design de Experiência** com o objetivo 
 * Se você quiser participar, entre em contato nos enviando um e-mail com o assunto "PROJETO OPEN-SOURCE" para o email contato@iniciativaux.com.br e exponha os seus motivos em querer fazer parte dessa comunidade.
 
 
+
+
+------------
+
+# Contribuindo
+
+## Antes de começar
+
+Agradeço pelo seu interese em participar. Será uma honra contar com sua ajuda e contribuição nesse projeto.
+
+## Como contribuir
+
+Se você quiser participar, entre em contato nos enviando um e-mail com o assunto "PROJETO OPEN-SOURCE" e exponha os seus motivos em querer fazer parte dessa comunidade.
+
+Observe que temos um [Código de Conduta](CODIGO-DE-CONDUTA.md), siga-o em todas as suas interações com o projeto.
+
+## Começando
+
+Para obter mais orientações sobre como começar, consulte os links relacionados:
+
+* [Como fazer Pull Request](PULL_REQUEST_TEMPLATE.md) (https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+* [Como fazer Issues]([ISSUE_TEMPLATE.md](https://docs.github.com/pt/issues/tracking-your-work-with-issues/about-issues))
+
 ## ✒️ Autores
 
 * **Design Lead** - *Autor do projeto* - [Andrei](https://github.com/andreiomega)
