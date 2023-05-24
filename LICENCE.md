@@ -14,6 +14,12 @@ A organização Creative Commons (“Creative Commons”) não é um escritório
            3. asdf
 
 
+1. Lists can be nested
+    * Four spaces
+        1. Eight spaces
+            1. Twelve spaces
+2. And back
+
 
 ## Utilizando as Licenças Públicas Creative Commons
 
