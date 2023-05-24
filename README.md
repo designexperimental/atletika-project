@@ -5,7 +5,7 @@ Esse é um projeto **Open Source** de **Design de Experiência** com o objetivo 
 ## 🖇️ Colaborando
 
 * Por favor, leia o [CODIGO-DE-CONDUTA](CODIGO-DE-CONDUTA.md) para obter detalhes sobre o nosso código de conduta deste no Projeto.
-* Se você quiser participar, entre em contato nos enviando um e-mail com o assunto "PROJETO OPEN-SOURCE" para o email contato@designexperimental.com.br e exponha os seus motivos em querer fazer parte dessa comunidade.
+* Se você quiser participar, entre em contato nos enviando um e-mail com o assunto "PROJETO OPEN-SOURCE" para o email contato@iniciativaux.com.br e exponha os seus motivos em querer fazer parte dessa comunidade.
 
 
 ## ✒️ Autores
@@ -16,7 +16,7 @@ Esse é um projeto **Open Source** de **Design de Experiência** com o objetivo 
 
 ## 📄 Licença
 
-Este projeto está sob a licença Creative Commons 4.0 Internacional - veja o arquivo [LICENSE](https://github.com/designexperimental/projeto-atletika/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença Creative Commons 4.0 Internacional - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 Para ler as cláusulas em português, veja a [página da Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode.pt).
 
