@@ -21,6 +21,19 @@ Este projeto está sob a licença Creative Commons 4.0 Internacional - veja o ar
 
 Para ler as cláusulas em português, veja a [página da Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode.pt).
 
+## 🚶‍♀️ Siga a trilha
+
+Se quer uma ajuda para ler todo os documentos em uma sequência lógica, segue o fio:
+
+1. Comece por aqui né, leia o [README](README) inteirinho primeiro;
+2. Depois vá para o [CÓDIGO DE CONDUTA];
+3.  
+
+
+
+
+
+
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
