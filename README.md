@@ -4,19 +4,14 @@ Esse é um projeto **Open Source** de **Design de Experiência** com o objetivo 
 
 ## 🖇️ Colaborando
 
-Por favor, leia o [CODIGO-DE-CONDUTA](CODIGO-DE-CONDUTA.md) para obter detalhes sobre o nosso código de conduta deste no Projeto.
-
-### ✍ Contribuindo
-
-Se você quiser participar, entre em contato nos enviando um e-mail com o assunto "PROJETO OPEN-SOURCE" para nosso email (contato@designexperimental.com.br) e exponha os seus motivos em querer fazer parte dessa comunidade.
+* Por favor, leia o [CODIGO-DE-CONDUTA](CODIGO-DE-CONDUTA.md) para obter detalhes sobre o nosso código de conduta deste no Projeto.
+* Se você quiser participar, entre em contato nos enviando um e-mail com o assunto "PROJETO OPEN-SOURCE" para nosso email (contato@designexperimental.com.br) e exponha os seus motivos em querer fazer parte dessa comunidade.
 
 
 ## ✒️ Autores
 
 * **Design Lead** - *Autor do projeto* - [Andrei](https://github.com/andreiomega)
-
 * Você também pode ver a lista de todos os [COLABORADORES](COLABORADORES.md) deste projeto.
-* Se você quiser participar, consulte nosso guia [CONTRIBUINDO](CONTRIBUINDO.md).
 
 
 ## 📄 Licença
