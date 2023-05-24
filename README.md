@@ -5,7 +5,9 @@ Esse é um projeto Open Source de Design de Experiência com o objetivo de compa
 ## 🖇️ Colaborando
 
 Por favor, leia o [CODIGO-DE-CONDUTA.md](https://github.com/designexperimental/projeto-atletika/blob/main/CODIGO-DE-CONDUTA.md) para obter detalhes sobre o nosso código de conduta;
-Por favor, leia o [COLABORACAO.md](https://github.com/designexperimental/projeto-atletika/blob/main/COLABORACAO.md) para obter detalhes sobre o processo para nos enviar pedidos de solicitação.
+
+Por favor, leia o [COLABORACAO.md](https://github.com/designexperimental/projeto-atletika/blob/main/COLABORACAO.md) para obter detalhes sobre o processo para nos enviar pedidos de solicitação;
+
 Por favor, leia o [COLABORADORES.md](https://github.com/designexperimental/projeto-atletika/blob/main/COLABORADORES.md) para obter detalhes sobre as pessoas participantes no Projeto.
 
 ## ✒️ Autores
