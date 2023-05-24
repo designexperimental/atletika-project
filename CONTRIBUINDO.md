@@ -1,8 +1,10 @@
+#Contribuindo
+
 ## Antes de começar
 
 Agradeço pelo seu interese em participar. Será uma honra contar com sua ajuda e contribuição nesse projeto.
 
-# Como contribuir
+## Como contribuir
 
 Se você quiser participar, entre em contato nos enviando um e-mail com o assunto "PROJETO OPEN-SOURCE" e exponha os seus motivos em querer fazer parte dessa comunidade.
 
