@@ -22,7 +22,7 @@ Para obter mais orientações sobre como usar o Github para colaboração, consu
 
 Se você quiser participar, entre em contato nos enviando um e-mail com o assunto "PROJETO OPEN-SOURCE" e exponha os seus motivos em querer fazer parte dessa comunidade.
 
-Observe que temos um [Código de Conduta](CODE-OF-CONDUCT.md), siga-o em todas as suas interações com o projeto.
+Observe que temos um [CODIGO-DE-CONDUTA](CODE-OF-CONDUCT.md), siga-o em todas as suas interações com o projeto.
 
 ## ✒️ Autores
 
