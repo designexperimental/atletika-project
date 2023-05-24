@@ -1,4 +1,4 @@
-#Contribuindo
+# Contribuindo
 
 ## Antes de começar
 
