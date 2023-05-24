@@ -16,7 +16,7 @@ Mas você pode começar isso agora:
 
 1. Use os desafios específicos de cada etapa do Projeto Atletika para entender o contexto, objetivo e projetar boas soluções;
 2. Os desafios são de um projeto real que possui: **Requisitos**, **Restrições** e **Riscos**. Leve isso em consideração;
-3. Aprenda a defender suas escolhas, escolhas e soluções;
+3. Aprenda a defender suas escolhas e soluções;
 4. Depois que finalizar cada desafio, compartilhe seus resultados e peça feedback;
 5. Com as recomendações recebidas, atualize seu repositório e portfolio e parepare-se para **entrevistas técnicas**.
 
