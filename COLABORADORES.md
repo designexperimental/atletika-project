@@ -2,7 +2,7 @@
 
 ## Agradecimentos especiais por todas as pessoas que ajudaram esse projeto até agora:
 
-#### \*Em ordem alfabética
+\*Em ordem alfabética
 
 * [Bruna](#)
 * [Danieli](#)
