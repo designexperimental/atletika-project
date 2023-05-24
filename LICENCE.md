@@ -48,11 +48,11 @@ Ao exercer os Direitos Licenciados (definidos abaixo), Você aceita e concorda e
 ### testando
 
 1. nível 1
-  2. asdfasd
-    2. nível 2
-      3. nível 3
+  1. asdfasd
+    1. nível 2
+      1. nível 3
         4. nível 4
-      5. asdf
+      1. asdf
 
 
 1. a. **Licença do Adaptador** significa a licença que Você aplica ao Seu Direito de Autor e Direitos Similares nas Suas contribuições ao Material Adaptado de acordo com os termos e condições desta Licença Pública.
