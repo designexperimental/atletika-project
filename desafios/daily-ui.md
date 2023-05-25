@@ -1,8 +1,10 @@
-# All Daily UI Challenges
+# Desafios Daily UI
 
-Lista de todos os desafios do Dailyui Design para usar alguns deles na prática no Projeto Atletika.
+Lista de todos os desafios do [Daily Ui Challenge](https://www.dailyui.co/) para usar alguns deles na prática no Projeto Atletika.
 
-A lista está separada por níveis de priorização do time de produto do projeto original baseado na ferramenta MoSCoW.
+A lista está separada por níveis de priorização do time de produto do projeto original baseado na ferramenta **MoSCoW**.
+
+
 
 ## Desafios selecionados
 \* tradução livre
