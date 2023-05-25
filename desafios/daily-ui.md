@@ -149,3 +149,5 @@ A intenção é praticar a criação dos layouts propostos para atender os crit�
 100. Redesign Daily UI Landing Page
 </s>
 </pre>
+
+Agora tá contigo. Mão na massa!
