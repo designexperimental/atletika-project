@@ -7,6 +7,8 @@ Lista de todos os desafios do Dailyui Design e para usar alguns deles na prátic
 2. Pagamento com cartão de crédito
 3. Landing Page
 
+## Desafios não praticados
+
 4. Calculator
 
 
