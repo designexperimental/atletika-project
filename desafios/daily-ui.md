@@ -1,30 +1,33 @@
 # All Daily UI Challenges
-A list of every DailyUI design challenge and then let's use some of them in the practice of the project
+Lista de todos os desafios do Dailyui Design e para usar alguns deles na prática no Projeto Atletika.
+
+## Desafios selecionados
+
+1. Tela de cadastro
+2. Pagamento com cartão de crédito
+3. Landing Page
 
 
-1. Sign Up
-2. Credit Card Checkout
-3. Landing Page (above the fold)
-4. ~~Calculator~~
-5. App Icon
-6. User Profile
-7. Settings
-8. 404 page
-9. ~~Music Player
-10. Social Share
-11. Flash Message (Error/Success)
-12. E-Commerce Shop (Single Item)
-13. ~~Direct Messaging
-14. ~~Countdown Timer
-15. On/Off Switch
-16. Pop-Up / Overlay
-17. Email Receipt
-18. ~~Analytics Chart
-19. ~~Leaderboard
-20. ~~Location Tracker
-21. Home Monitoring Dashboard
-22. Search
-23. Onboarding
+5. ~~Calculator~~
+6. App Icon
+7. User Profile
+8. Settings
+9. 404 page
+10. ~~Music Player
+11. Social Share
+12. Flash Message (Error/Success)
+13. E-Commerce Shop (Single Item)
+14. ~~Direct Messaging
+15. ~~Countdown Timer
+16. On/Off Switch
+17. Pop-Up / Overlay
+18. Email Receipt
+19. ~~Analytics Chart
+20. ~~Leaderboard
+21. ~~Location Tracker
+22. Home Monitoring Dashboard
+23. Search
+24. Onboarding
 ~~24. Boarding Pass
 ~~25. TV App
 26. Subscribe
