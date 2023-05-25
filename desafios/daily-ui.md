@@ -1,4 +1,4 @@
-# Desafios Daily UI
+# Desafios de UI
 
 Lista de todos os desafios do [Daily UI Challenge](https://www.dailyui.co/) para usar alguns deles na prática no **Projeto Atletika**.
 
