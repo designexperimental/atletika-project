@@ -5,8 +5,8 @@ Lista de todos os desafios do [Daily Ui Challenge](https://www.dailyui.co/) para
 A lista está separada por níveis de priorização do time de produto do projeto original baseado na ferramenta **MoSCoW**.
 
 A intenção é praticar os exercícios propostos para atender os critérios da definição de Usabilidade:
-* **Objetivo específico**,
-* **Usuários específicos**,
+* **Objetivo específico**
+* **Usuários específicos**
 * **Contexto específico de uso**
 
 ## Desafios selecionados
