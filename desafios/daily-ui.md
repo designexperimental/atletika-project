@@ -7,16 +7,14 @@ A lista está separada por níveis de priorização do time de produto do projet
 ## Desafios selecionados
 \* tradução livre
 
-
-
-
-
-
+### Priorização 1
 
 <pre>
 1. Tela de cadastro (Sign Up)
-3. Checkout com cartão de crédito (Credit Card Checkout)
-5. Other thing
+2. Checkout com cartão de crédito (Credit Card Checkout)
+3. Landing Page (Landing Page (above the fold)
+
+
 </pre>
 
 5. Landing Page (Landing Page (above the fold)
@@ -65,6 +63,7 @@ A lista está separada por níveis de priorização do time de produto do projet
 
 ## Desafios não praticados
 
+<pre>
 4. Calculator
 5. App Icon
 7. Settings
@@ -124,3 +123,4 @@ A lista está separada por níveis de priorização do time de produto do projet
 97. Giveaway
 98. Advertisement
 100. Redesign Daily UI Landing Page
+</pre>
