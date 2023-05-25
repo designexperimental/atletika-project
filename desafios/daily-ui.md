@@ -13,61 +13,84 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 \* tradução livre
 
 ### Priorização 1: Precisa Ter (Must Have)
+
+\* ## Foco em layout de média fidelidade para aprovação de conceito
+
 <pre>
 1. Tela de cadastro (Sign Up)
-2. Checkout com cartão de crédito (Credit Card Checkout)
-3. Landing Page (Landing Page (above the fold))
-6. Perfil de cliente (User Profile)
-
-8. Página 404 (404 page)
-10. Compartilhamento em redes sociais (Social Share)
-11. Flash Message (Error/Success)
-12. E-Commerce Shop (Single Item)
-16. Pop-Up / Overlay
-17. Email Receipt
-22. Search
+11. Mensagem de aviso de erro/sucesso (Flash Message: Error/Success)
+12. Página de produto (E-Commerce Shop: Single Item)
+22. Campo e página de resultado de busca (Search)
 23. Onboarding
-26. Subscribe
-27. Dropdown
-28. Contact Us
-33. Customize Product
-35. Blog Post
-45. Info Card
-46. Invoice
-49. Notifications
-53. Header Navigation
+28. Página de contatos (Contact Us)
+33. Customização de Produto (Customize Product)
+45. Card de informação de produto (Info Card)
+53. Cabeçalho e menu principal (Header Navigation)
 56. Breadcrumbs
-57. Video Player
-58. Shopping Cart
-59. Background Pattern
-61. Redeem Coupon
-72. Image Slider
-75. Pre-Order
-76. Loading...
-77. Thank You
-81. Status Update
-82. Form
-83. Button
+58. Carrinho de compras (Shopping Cart)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+61. Cupom de desconto (Redeem Coupon)
+72. Slider/Galeria/Carrossel de imagem (Image Slider)
+75. Página de pré-venda (Pre-Order)
+76. Status de carregamento (Loading...)
+77. Página de confirmação de compra/Agradecimento (Thank You)
+81. Pagína de acompanhamento da entrega do produto (Status Update)
+82. Componentes de Formulário (Form)
+83. Botão (Button)
 84. Badge
-85. Pagination
-86. Progress Bar
+85. Paginação (Pagination)
+86. Barra de etapas de compra (Progress Bar)
 87. Tooltip
 88. Avatar
-89. Terms of Service
-92. F.A.Q.
-99. Categories
+89. Página de Termos de Uso (Terms of Service)
+92. Página de Perguntas Frequentes (F.A.Q.)
+99. Página de categorias de produtos (Categories)
 </pre>
 
 
 ### Priorização 2: Deve Ter (Should Have)
+
+\* ## Foco em layout de alta fidelidade para confirmação de desenvolvimento
+
 <pre>
+2. Checkout com cartão de crédito (Credit Card Checkout)
+6. Perfil de cliente (User Profile)
+8. Página 404 (404 page)
+16. Caixa de diálogo/Modal (Pop-Up / Overlay)
+27. Dropdown
+46. Fatura para pagamento/boleto/Pix (Invoice)
+49. Notificações (Notifications)
+57. Video Player
+59. Padrão de fundo do site com variações (Background Pattern)
 
 </pre>
 
 
 
 ### Priorização 3:Poderia Ter (Could Have)
+
+\* ## Foco em marketing digital
+
 <pre>
+3. Landing Page (Landing Page: above the fold)
+10. Compartilhamento em redes sociais (Social Share)
+17. Email de recibo/confirmação de compra (Email Receipt)
+26. Card de inscrição de newsletter (Subscribe)
+35. Blog Post
 
 </pre>
 
@@ -86,6 +109,7 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 13. Direct Messaging
 14. Countdown Timer
 15. On/Off Switch
+
 18. Analytics Chart
 19. Leaderboard
 20. Location Tracker
