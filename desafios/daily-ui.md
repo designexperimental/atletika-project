@@ -1,10 +1,10 @@
 # Desafios de UI
 
-Lista de todos os desafios do [Daily UI Challenge](https://www.dailyui.co/) para usar alguns deles na prática no **Projeto Atletika**.
+Lista de todos os exercícios do [Daily UI Challenge](https://www.dailyui.co/) para usar alguns deles na prática no **Projeto Atletika**.
 
 A lista está separada por níveis de priorização do time de produto do projeto original baseado na ferramenta **MoSCoW**.
 
-A intenção é praticar os exercícios propostos para atender os critérios da definição de Usabilidade:
+A intenção é praticar a criação dos layouts propostos para atender os critérios da definição de Usabilidade:
 * **Objetivo específico**
 * **Usuários específicos**
 * **Contexto específico de uso**
