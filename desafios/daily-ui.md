@@ -15,8 +15,12 @@ A lista está separada por níveis de priorização do time de produto do projet
 
 
 1. Tela de cadastro (Sign Up)
-2. Checkout com cartão de crédito (Credit Card Checkout)
-3. Landing Page (Landing Page (above the fold)
+
+
+3. Checkout com cartão de crédito (Credit Card Checkout)
+
+
+5. Landing Page (Landing Page (above the fold)
 
 
 \6. Perfil de cliente (User Profile)
