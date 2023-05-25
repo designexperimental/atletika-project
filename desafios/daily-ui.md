@@ -14,7 +14,7 @@ Lista de todos os desafios do Dailyui Design e para usar alguns deles na prátic
 
 6. App Icon
 7. User Profile
-8. Settings
+\8. Settings
 9. 404 page
 10. ~~Music Player
 11. Social Share
