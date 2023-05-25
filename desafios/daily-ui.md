@@ -16,7 +16,7 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 
 \* Foco em layout de média fidelidade para aprovação de conceito
 
-17 itens
+✅ 17 itens
 
 <pre>
 1. Tela de cadastro (Sign Up)
@@ -42,7 +42,7 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 
 \* Foco em layout de alta fidelidade para aprovação de desenvolvimento
 
-18 itens
+✅ 18 itens
 
 <pre>
 2. Checkout com cartão de crédito (Credit Card Checkout)
@@ -65,11 +65,11 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 89. Página de Termos de Uso (Terms of Service)
 </pre>
 
-### Priorização 3:Poderia Ter (Could Have)
+### Priorização 3: Poderia Ter (Could Have)
 
-\* ## Foco em layouts de apoio do marketing digital
+\* Foco em layouts de apoio do marketing digital
 
-6 itens
+✅ 6 itens
 
 <pre>
 3. Landing Page (Landing Page: above the fold)
@@ -82,9 +82,9 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 
 ### Priorização 4: Não terá (Will Not Have)
 
-\* ## Desafios não praticados
+\* Desafios não praticados
 
-59 itens
+❎ 59 itens
 
 <pre>
 4. Calculator
