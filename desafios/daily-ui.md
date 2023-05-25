@@ -3,7 +3,7 @@ Lista de todos os desafios do Dailyui Design e para usar alguns deles na prátic
 
 
 ## Desafios selecionados
-* tradução livre
+\* tradução livre
 
 
 
