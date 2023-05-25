@@ -5,7 +5,7 @@ A list of every DailyUI design challenge and then let's use some of them in the 
 1. Sign Up
 2. Credit Card Checkout
 3. Landing Page (above the fold)
-~~4. Calculator~~
+4. ~~Calculator~~
 5. App Icon
 6. User Profile
 7. Settings
