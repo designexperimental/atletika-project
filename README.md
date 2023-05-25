@@ -7,7 +7,7 @@ Esse é um projeto **Open Source** de **Design de Experiência** com o objetivo 
 ## 🖇️ Colaborando
 
 * Por favor, leia o [CODIGO-DE-CONDUTA](CODE-OF-CONDUCT.md) para obter detalhes sobre o nosso código de conduta deste no Projeto.
-* Se você quiser participar, entre em contato nos enviando um e-mail com o assunto "PROJETO OPEN-SOURCE" para o email contato@iniciativaux.com.br e exponha os seus motivos em querer fazer parte dessa comunidade.
+* Se você quiser participar, entre em contato nos enviando um e-mail com o assunto "PROJETO OPEN-SOURCE" para o email contato@iniciativaux.com.br e exponha os seus motivos em querer fazer parte dessa comunidade. Não prometemos uma resposta rápida nem que sua participação será garantida.
 
 ## ✒️ Autores
 
