@@ -1,6 +1,6 @@
 # Desk Research
 
-Primeira etapa do trabalho é fazer a "Pesquisa de Mesa".
+Primeira etapa do projeto de experiência é fazer a "Pesquisa de Mesa".
 
 ## 📙 Contexto
 
