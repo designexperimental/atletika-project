@@ -18,8 +18,7 @@ A intenção é praticar a criação dos layouts propostos para atender os crit�
 
 ✅ 17 itens
 
-<pre>
-1. Tela de cadastro (Sign Up)
+<pre>1. Tela de cadastro (Sign Up)
 11. Mensagem de aviso de erro/sucesso (Flash Message: Error/Success)
 12. Página de produto (E-Commerce Shop: Single Item)
 22. Campo e página de resultado de busca (Search)
@@ -35,8 +34,7 @@ A intenção é praticar a criação dos layouts propostos para atender os crit�
 81. Pagína de acompanhamento da entrega do produto (Status Update)
 86. Barra de etapas de compra (Progress Bar)
 92. Página de Perguntas Frequentes (F.A.Q.)
-99. Página de categorias de produtos (Categories)
-</pre>
+99. Página de categorias de produtos (Categories)</pre>
 
 ### Priorização 2: Deve Ter (Should Have)
 
@@ -44,8 +42,7 @@ A intenção é praticar a criação dos layouts propostos para atender os crit�
 
 ✅ 18 itens
 
-<pre>
-2. Checkout com cartão de crédito (Credit Card Checkout)
+<pre>2. Checkout com cartão de crédito (Credit Card Checkout)
 6. Perfil de cliente (User Profile)
 8. Página 404 (404 page)
 16. Caixa de diálogo/Modal (Pop-Up / Overlay)
@@ -62,8 +59,7 @@ A intenção é praticar a criação dos layouts propostos para atender os crit�
 85. Paginação (Pagination)
 87. Tooltip
 88. Avatar
-89. Página de Termos de Uso (Terms of Service)
-</pre>
+89. Página de Termos de Uso (Terms of Service)</pre>
 
 ### Priorização 3: Poderia Ter (Could Have)
 
@@ -71,14 +67,12 @@ A intenção é praticar a criação dos layouts propostos para atender os crit�
 
 ✅ 6 itens
 
-<pre>
-3. Landing Page (Landing Page: above the fold)
+<pre>3. Landing Page (Landing Page: above the fold)
 10. Compartilhamento em redes sociais (Social Share)
 17. Email de recibo/confirmação de compra (Email Receipt)
 26. Card de inscrição de newsletter (Subscribe)
 35. Blog Post
-75. Página de pré-venda (Pre-Order)
-</pre>
+75. Página de pré-venda (Pre-Order)</pre>
 
 ### Priorização 4: Não terá (Will Not Have)
 
@@ -86,8 +80,7 @@ A intenção é praticar a criação dos layouts propostos para atender os crit�
 
 ❎ 59 itens
 
-<pre><s>
-4. Calculator
+<pre><s>4. Calculator
 5. App Icon
 7. Settings
 9. Music Player
@@ -145,7 +138,6 @@ A intenção é praticar a criação dos layouts propostos para atender os crit�
 96. Currently In-Stock
 97. Giveaway
 98. Advertisement
-100. Redesign Daily UI Landing Page</s>
-</pre>
+100. Redesign Daily UI Landing Page</s></pre>
 
 Agora tá contigo. Mão na massa!
