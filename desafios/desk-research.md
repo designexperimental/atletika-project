@@ -4,7 +4,7 @@ Primeira etapa do trabalho é fazer a "Pesquisa de Mesa".
 
 ## 📙 Contexto
 
-Você acabou de ler o [Briefing](../docs/Briefing-Atletika.pdf) e o [Documento de Requisitos do Projeto](../docs/Atletika-PRD.pdf). Agora podemos começar, pois agora você já sabe qual é o **Ojbetivo específico** do projeto.
+Você acabou de ler o [Briefing](../docs/Briefing-Atletika.pdf) e o [Documento de Requisitos do Projeto](../docs/Atletika-PRD.pdf). Agora podemos começar, pois agora você já sabe qual é o **Objetivo específico** do projeto.
 
 Para isso, vamos iniciar entendendo quem são as pessoas envolvidas no Projeto, para no caso de ser necessário consultar informações em outros momentos. Também vamos entender o que vai ser necessário ser pesquisado, usando fontes confiáveis para entender o cenário do Projeto. Com os entregáveis a segui, daremos o pontapé inicial no Projeto, tendo o entendimento sobre o **Contexto Expecífico de Uso** do produto e ter uma ideia de quem são os **Usuários Específicos**.
 
