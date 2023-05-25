@@ -7,8 +7,9 @@ Lista de todos os desafios do Dailyui Design e para usar alguns deles na prátic
 2. Pagamento com cartão de crédito
 3. Landing Page
 
+4. Calculator
 
-5. ~~Calculator~~
+
 6. App Icon
 7. User Profile
 8. Settings
