@@ -2,25 +2,17 @@
 
 Lista de todos os desafios do Dailyui Design para usar alguns deles na prática no Projeto Atletika.
 
-A lista está separada por níveis de priorização do time de produto do projeto original.
+A lista está separada por níveis de priorização do time de produto do projeto original baseado na ferramenta MoSCoW.
 
 ## Desafios selecionados
 \* tradução livre
 
-### Priorização 1
-
+### Priorização 1: Precisa Ter (Must Have)
 <pre>
 1. Tela de cadastro (Sign Up)
 2. Checkout com cartão de crédito (Credit Card Checkout)
-3. Landing Page (Landing Page (above the fold)
-
-
-</pre>
-
-5. Landing Page (Landing Page (above the fold)
-
-
-\6. Perfil de cliente (User Profile)
+3. Landing Page (Landing Page (above the fold))
+6. Perfil de cliente (User Profile)
 
 8. Página 404 (404 page)
 10. Compartilhamento em redes sociais (Social Share)
@@ -59,9 +51,27 @@ A lista está separada por níveis de priorização do time de produto do projet
 89. Terms of Service
 92. F.A.Q.
 99. Categories
+</pre>
 
 
-## Desafios não praticados
+### Priorização 2: Deve Ter (Should Have)
+<pre>
+
+</pre>
+
+
+
+### Priorização 3:Poderia Ter (Could Have)
+<pre>
+
+</pre>
+
+
+
+
+### Priorização 4: Não terá (Will Not Have)
+
+\* ## Desafios não praticados
 
 <pre>
 4. Calculator
