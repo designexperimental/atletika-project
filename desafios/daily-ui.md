@@ -14,7 +14,7 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 
 ### Priorização 1: Precisa Ter (Must Have)
 
-\* ## Foco em layout de média fidelidade para aprovação de conceito
+\* Foco em layout de média fidelidade para aprovação de conceito
 
 <pre>
 1. Tela de cadastro (Sign Up)
@@ -38,7 +38,7 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 
 ### Priorização 2: Deve Ter (Should Have)
 
-\* ## Foco em layout de alta fidelidade para confirmação de desenvolvimento
+\* Foco em layout de alta fidelidade para aprovação de desenvolvimento
 
 <pre>
 2. Checkout com cartão de crédito (Credit Card Checkout)
