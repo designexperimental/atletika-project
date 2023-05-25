@@ -1,5 +1,7 @@
 # All Daily UI Challenges
+
 Lista de todos os desafios do Dailyui Design para usar alguns deles na prática no Projeto Atletika.
+
 A lista está separada por níveis de priorização do time de produto do projeto original.
 
 ## Desafios selecionados
