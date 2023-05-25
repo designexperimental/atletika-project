@@ -4,7 +4,7 @@ Lista de todos os desafios do [Daily Ui Challenge](https://www.dailyui.co/) para
 
 A lista está separada por níveis de priorização do time de produto do projeto original baseado na ferramenta **MoSCoW**.
 
-
+A diferença é praticar o exercício proposto mas com **OBJETIVO ESPECÍFICO**, **USUÁRIOS ESPECÍFICOS** em um **CONTEXTO ESPECÍFICO DE USO** atendendo os critérios da definição de Usabilidade. 
 
 ## Desafios selecionados
 \* tradução livre
