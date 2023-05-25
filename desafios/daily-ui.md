@@ -16,6 +16,8 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 
 \* Foco em layout de média fidelidade para aprovação de conceito
 
+17 itens
+
 <pre>
 1. Tela de cadastro (Sign Up)
 11. Mensagem de aviso de erro/sucesso (Flash Message: Error/Success)
@@ -39,6 +41,8 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 ### Priorização 2: Deve Ter (Should Have)
 
 \* Foco em layout de alta fidelidade para aprovação de desenvolvimento
+
+18 itens
 
 <pre>
 2. Checkout com cartão de crédito (Credit Card Checkout)
@@ -65,6 +69,8 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 
 \* ## Foco em layouts de apoio do marketing digital
 
+6 itens
+
 <pre>
 3. Landing Page (Landing Page: above the fold)
 10. Compartilhamento em redes sociais (Social Share)
@@ -77,6 +83,8 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 ### Priorização 4: Não terá (Will Not Have)
 
 \* ## Desafios não praticados
+
+59 itens
 
 <pre>
 4. Calculator
