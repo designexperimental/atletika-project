@@ -17,7 +17,10 @@ A lista está separada por níveis de priorização do time de produto do projet
 1. Tela de cadastro (Sign Up)
 2. Checkout com cartão de crédito (Credit Card Checkout)
 3. Landing Page (Landing Page (above the fold)
+
+
 \6. Perfil de cliente (User Profile)
+
 8. Página 404 (404 page)
 10. Compartilhamento em redes sociais (Social Share)
 11. Flash Message (Error/Success)
