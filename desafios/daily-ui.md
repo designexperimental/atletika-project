@@ -28,39 +28,13 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 53. Cabeçalho e menu principal (Header Navigation)
 56. Breadcrumbs
 58. Carrinho de compras (Shopping Cart)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 61. Cupom de desconto (Redeem Coupon)
-72. Slider/Galeria/Carrossel de imagem (Image Slider)
-75. Página de pré-venda (Pre-Order)
-76. Status de carregamento (Loading...)
 77. Página de confirmação de compra/Agradecimento (Thank You)
 81. Pagína de acompanhamento da entrega do produto (Status Update)
-82. Componentes de Formulário (Form)
-83. Botão (Button)
-84. Badge
-85. Paginação (Pagination)
 86. Barra de etapas de compra (Progress Bar)
-87. Tooltip
-88. Avatar
-89. Página de Termos de Uso (Terms of Service)
 92. Página de Perguntas Frequentes (F.A.Q.)
 99. Página de categorias de produtos (Categories)
 </pre>
-
 
 ### Priorização 2: Deve Ter (Should Have)
 
@@ -76,14 +50,20 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 49. Notificações (Notifications)
 57. Video Player
 59. Padrão de fundo do site com variações (Background Pattern)
-
+72. Slider/Galeria/Carrossel de imagem (Image Slider)
+76. Status de carregamento (Loading...)
+82. Componentes de Formulário (Form)
+83. Botão (Button)
+84. Badge
+85. Paginação (Pagination)
+87. Tooltip
+88. Avatar
+89. Página de Termos de Uso (Terms of Service)
 </pre>
-
-
 
 ### Priorização 3:Poderia Ter (Could Have)
 
-\* ## Foco em marketing digital
+\* ## Foco em layouts de apoio do marketing digital
 
 <pre>
 3. Landing Page (Landing Page: above the fold)
@@ -91,11 +71,8 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 17. Email de recibo/confirmação de compra (Email Receipt)
 26. Card de inscrição de newsletter (Subscribe)
 35. Blog Post
-
+75. Página de pré-venda (Pre-Order)
 </pre>
-
-
-
 
 ### Priorização 4: Não terá (Will Not Have)
 
@@ -109,7 +86,6 @@ A intenção é praticar os exercícios propostos para atender os critérios da 
 13. Direct Messaging
 14. Countdown Timer
 15. On/Off Switch
-
 18. Analytics Chart
 19. Leaderboard
 20. Location Tracker
