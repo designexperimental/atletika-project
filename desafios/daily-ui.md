@@ -10,18 +10,18 @@ A list of every DailyUI design challenge and then let's use some of them in the 
 6. User Profile
 7. Settings
 8. 404 page
-~~9. Music Player
+9. ~~Music Player
 10. Social Share
 11. Flash Message (Error/Success)
 12. E-Commerce Shop (Single Item)
-~~13. Direct Messaging
-~~14. Countdown Timer
-~~15. On/Off Switch
+13. ~~Direct Messaging
+14. ~~Countdown Timer
+15. On/Off Switch
 16. Pop-Up / Overlay
 17. Email Receipt
-~~18. Analytics Chart
-~~19. Leaderboard
-~~20. Location Tracker
+18. ~~Analytics Chart
+19. ~~Leaderboard
+20. ~~Location Tracker
 21. Home Monitoring Dashboard
 22. Search
 23. Onboarding
