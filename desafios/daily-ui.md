@@ -87,6 +87,7 @@ A intenção é praticar a criação dos layouts propostos para atender os crit�
 ❎ 59 itens
 
 <pre>
+<s>
 4. Calculator
 5. App Icon
 7. Settings
@@ -146,4 +147,5 @@ A intenção é praticar a criação dos layouts propostos para atender os crit�
 97. Giveaway
 98. Advertisement
 100. Redesign Daily UI Landing Page
+</s>
 </pre>
