@@ -9,7 +9,7 @@ A intenção é criar os layouts propostos para atender os critérios da defini�
 * **Usuários específicos**
 * **Contexto específico de uso**
 
-Antes de iniciar qualquer criação, leia o [Briefing](../docs/Atletika-Briefing.pdf) e o [Documento de Requisitos do Produto](../docs/Atletika-PRD.pdf).
+Antes de iniciar qualquer criação, leia o [Briefing](../docs/Atletika-Briefing.pdf) e o [Documento de Requisitos do Produto](../docs/Atletika-PRD.pdf) para entender o contexto do projeto.
 
 ## Desafios selecionados
 \* tradução livre
