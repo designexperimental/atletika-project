@@ -14,7 +14,7 @@ A intenção é criar os layouts propostos para atender os critérios da defini�
 
 ### Priorização 1: Precisa Ter (Must Have)
 
-\* Foco em layout de média fidelidade para aprovação de conceito
+\* Foco em layout de média fidelidade para aprovação de conceitos.
 
 ✅ 17 itens
 
@@ -63,7 +63,7 @@ A intenção é criar os layouts propostos para atender os critérios da defini�
 
 ### Priorização 3: Poderia Ter (Could Have)
 
-\* Foco em layouts de apoio do marketing digital
+\* Foco em layouts de apoio ao marketing digital.
 
 ✅ 6 itens
 
@@ -76,7 +76,7 @@ A intenção é criar os layouts propostos para atender os critérios da defini�
 
 ### Priorização 4: Não terá (Will Not Have)
 
-\* Desafios não praticados
+\* Desafios não aplicáveis ao projeto.
 
 ❎ 59 itens
 
