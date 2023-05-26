@@ -4,7 +4,7 @@ Lista de todos os exercícios do [Daily UI Challenge](https://www.dailyui.co/) p
 
 A lista está separada por níveis de priorização do time de produto do projeto original baseado na ferramenta **MoSCoW**.
 
-A intenção é praticar a criação dos layouts propostos para atender os critérios da definição de Usabilidade:
+A intenção é criar os layouts propostos para atender os critérios da definição de Usabilidade:
 * **Objetivo específico**
 * **Usuários específicos**
 * **Contexto específico de uso**
