@@ -1,6 +1,6 @@
 # Desafios de UI
 
-Lista de todos os exercícios do [Daily UI Challenge](https://www.dailyui.co/) para usar alguns deles na prática no **Projeto Atletika**.
+Lista de todos os exercícios do [Daily UI Challenge](https://www.dailyui.co/) para praticar no **Projeto Atletika**.
 
 A lista está separada por níveis de priorização do time de produto do projeto original baseado na ferramenta **MoSCoW**.
 
