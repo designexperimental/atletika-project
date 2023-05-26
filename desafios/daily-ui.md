@@ -38,7 +38,7 @@ A intenção é criar os layouts propostos para atender os critérios da defini�
 
 ### Priorização 2: Deve Ter (Should Have)
 
-\* Foco em layout de alta fidelidade para aprovação de desenvolvimento
+\* Foco em layout de alta fidelidade para aprovação de desenvolvimento (hand-off).
 
 ✅ 18 itens
 
