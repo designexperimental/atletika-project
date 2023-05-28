@@ -3,11 +3,11 @@
 ## Agradecimentos especiais por todas as pessoas que ajudaram esse projeto até agora:
 
 \*Em ordem alfabética
-
+<!--
 * [Danieli](#)
 * [Pedro](#)
 * [Priscylla](#)
-
+-->
 ## 🙏 Gostaria de participar desta lista e ajudar o projeto?
 
 Atualmente, procuramos contribuições para:
