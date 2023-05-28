@@ -4,7 +4,6 @@
 
 \*Em ordem alfabética
 
-* [Bruna](#)
 * [Danieli](#)
 * [Pedro](#)
 * [Priscylla](#)
