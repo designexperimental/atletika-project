@@ -17,9 +17,9 @@ Atualmente, procuramos contribuições para:
 - [ ] Revisão textual
 - [ ] Feedback
 e principalmente:
-- [ ] **UX Research
-- [ ] **UX Writing
-- [ ] **UI Design
+- [ ] **UX Research**
+- [ ] **UX Writing**
+- [ ] **UI Design**
 
 Para mais informações, consulte nosso guia geral [README](README.md).
 
