@@ -4,9 +4,9 @@
 
 \*Em ordem alfabética
 <!--
-* [Danieli](#)
 * [Pedro](#)
 * [Priscylla](#)
+* [Thaís](#)
 -->
 ## 🙏 Gostaria de participar desta lista e ajudar o projeto?
 
@@ -16,6 +16,10 @@ Atualmente, procuramos contribuições para:
 - [ ] Traduções
 - [ ] Revisão textual
 - [ ] Feedback
+e principalmente:
+- [ ] **UX Research
+- [ ] **UX Writing
+- [ ] **UI Design
 
 Para mais informações, consulte nosso guia geral [README](README.md).
 
