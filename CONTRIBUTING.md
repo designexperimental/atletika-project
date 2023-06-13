@@ -12,14 +12,13 @@
 
 Atualmente, procuramos contribuições para:
 
-- [ ] Correção de erros
-- [ ] Traduções
-- [ ] Revisão textual
-- [ ] Feedback
-e principalmente:
 - [ ] **UX Research**
 - [ ] **UX Writing**
 - [ ] **UI Design**
+- [ ] Revisão e correção de erros em Pesquisa e Interface
+- [ ] Traduções do projeto para outros idiomas
+- [ ] Revisão textual
+- [ ] Participação em seções de Design Critique 
 
 Para mais informações, consulte nosso guia geral [README](README.md).
 
