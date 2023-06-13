@@ -12,7 +12,7 @@ Esse é um projeto **Open Source** de **Design de Experiência** com o objetivo 
 ## ✒️ Autores
 
 * **Design Lead** - *Autor do projeto* - [Andrei](https://github.com/andreiomega)
-* Você também pode ver a lista de todos os [COLABORADORES](COLABORADORES.md) deste projeto.
+* Você também pode ver a lista de todos os [COLABORADORES](CONTRIBUTING.md) deste projeto.
 
 
 ## 📄 Licença
