@@ -20,6 +20,15 @@ Mas você pode começar isso agora:
 4. Depois que finalizar cada desafio, compartilhe seus resultados e peça feedback;
 5. Com as recomendações recebidas, atualize seu repositório e portfolio e parepare-se para **entrevistas técnicas**.
 
+## 🚶‍♀️ Siga os passos:
+
+* [-DE-CONDUTA](CODE-OF-CONDUCT.md) 
+
+FASE 1: PESQUISA REFERÊNCIAL
+1. [Desk Research](desk-research.md);
+2. [Benchmarking](benchmarking.md);
+3. [Análise Heurística](analise-heuristica.md)
+
 Demonstre que você tem **Curiosidade** para aprender, **Criatividade** para solucionar e sabe fazer uma **Comunicação** assertiva e clara.
 
 Então mão na massa!
