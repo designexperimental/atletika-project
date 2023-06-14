@@ -22,8 +22,6 @@ Mas você pode começar isso agora:
 
 ## 🚶‍♀️ Siga os passos:
 
-* [-DE-CONDUTA](CODE-OF-CONDUCT.md) 
-
 FASE 1: PESQUISA REFERÊNCIAL
 1. [Desk Research](desk-research.md);
 2. [Benchmarking](benchmarking.md);
