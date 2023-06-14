@@ -1,6 +1,6 @@
 # Benchmarking
 
-Esse é o segundo passo da primeira fase do projeto. Vamos fazer uma análise de comparação com outros produtos para verificar as boas práticas no mercad.
+Esse é o segundo passo (2/3) da primeira fase do projeto. Vamos fazer uma análise de comparação com outros produtos para verificar as boas práticas no mercado.
 
 ## 📙 Contexto
 
