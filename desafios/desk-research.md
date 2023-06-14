@@ -1,6 +1,6 @@
 # Desk Research
 
-Primeira etapa do projeto de experiência é fazer a "Pesquisa de Mesa".
+Essa é a primeira etapa do projeto de experiência na primeira fase chamada de "Pesquisa Referência" e vamos fazer a "Pesquisa de Mesa".
 
 ## 📙 Contexto
 
