@@ -18,7 +18,7 @@ Dentre os diversos tipos de Benchmarking, é importante deixar claro que não se
 
 Vamos focar no produto e entender suas funcionalidades. Daí o adjetivo "Funcional".
 
-## 🚨 Se for realizar o desafio isolado
+## 🚨 Se esse desafio for ponto de partida
 
 Se for fazer apenas esse desafio, considere as seguintes orientações:
 
