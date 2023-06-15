@@ -31,7 +31,7 @@ Se quer uma ajuda para ler todos os documentos antes de começar, em uma sequên
 4. Entenda como contribuir lendo sobre [Contribuição](CONTRIBUTING.md);
 5. Aí sim você dá uma olhada no [Briefing](docs/Atletika-Briefing.pdf);
 6. E então no [Documento de Requisitos do Produto](docs/Atletika-PRD.pdf)
-7. Aí sim você pode começar os Desafios mas lendo o [Início para os desafios](desafios/INICIE-AQUI.md).
+7. Aí sim você pode começar os Desafios mas lendo o [Início para os desafios](desafios/0-0-INICIE-AQUI.md).
 
 Se joga!
 
