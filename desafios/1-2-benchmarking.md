@@ -4,7 +4,7 @@ Esse é o segundo passo (2/3) da primeira fase do projeto. Vamos fazer uma anál
 
 ## 📙 Contexto
 
-Você já realizou a [Desk Research](desk-research.md) e com isso você já:
+Você já realizou a [Desk Research](1-1-desk-research.md) e com isso você já:
 * Criou o **Mapa de Stakeholders** para conhecer as pessoas envolvidas no projeto;
 * Realizou a **Pesquisa Secundária** para entender sobre Mercado, Competidores, Produtos e Usuários;
 * Fez uma **Matriz CSD**;
