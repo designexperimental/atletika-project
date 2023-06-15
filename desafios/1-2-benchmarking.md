@@ -18,8 +18,6 @@ Dentre os diversos tipos de Benchmarking, é importante deixar claro que não se
 
 Vamos focar no produto e entender suas funcionalidades. Daí o adjetivo "Funcional".
 
-Sendo assim, deverão ser realizados duas entregas:
-
 ## 🎁 Entregáveis
 
 * Tabela Comparativa: uma tabela simples com os principais recursos de forma Quantitativa para saber quais competidores tem determinados recursos.
