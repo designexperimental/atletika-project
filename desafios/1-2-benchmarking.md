@@ -18,6 +18,14 @@ Dentre os diversos tipos de Benchmarking, é importante deixar claro que não se
 
 Vamos focar no produto e entender suas funcionalidades. Daí o adjetivo "Funcional".
 
+## 🚨 Se for realizar o desafio isolado
+
+Se for seu ponto de partida, faça:
+
+* Leia toda a documentação inicial do projeto ([Briefing](docs/Atletika-Briefing.pdf) e [PRD](docs/Atletika-PRD.pdf));
+* Defina com critérios e fundamentos 3 concorrentes principais para a marca;
+* Defina com critérios e fundamentos 3 referências de mercado relacionados ao produto.
+
 ## 🎁 Entregáveis
 
 * Tabela Comparativa: uma tabela simples com as principais funcionalidades de forma **Quantitativa** para saber quais competidores tem determinados recursos.
