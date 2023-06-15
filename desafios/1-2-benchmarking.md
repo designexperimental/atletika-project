@@ -22,7 +22,7 @@ Vamos focar no produto e entender suas funcionalidades. Daí o adjetivo "Funcion
 
 Se for fazer apenas esse desafio, considere as seguintes orientações:
 
-* Leia toda a documentação inicial do projeto ([Briefing](docs/Atletika-Briefing.pdf) e [PRD](docs/Atletika-PRD.pdf));
+* Leia toda a documentação inicial do projeto ([Briefing](../docs/Atletika-Briefing.pdf) e [PRD](../docs/Atletika-PRD.pdf));
 * Defina com critérios e fundamentos 3 concorrentes principais para a marca;
 * Defina com critérios e fundamentos 3 referências de mercado relacionados ao produto.
 
