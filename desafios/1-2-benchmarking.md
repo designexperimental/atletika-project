@@ -20,8 +20,8 @@ Vamos focar no produto e entender suas funcionalidades. Daí o adjetivo "Funcion
 
 ## 🎁 Entregáveis
 
-* Tabela Comparativa: uma tabela simples com os principais recursos de forma Quantitativa para saber quais competidores tem determinados recursos.
-* Matriz Interativa: se der tempo, e se você tiver conhecimento de Figma, crie uma Tabela Interativa indo mais a fundo nas **categorias** e **critérios de usabilidade** (defina quais serão), de forma Qualitativa, fazendo *prints* dos produtos analisados e comentando sobre eles.
+* Tabela Comparativa: uma tabela simples com as principais funcionalidades de forma **Quantitativa** para saber quais competidores tem determinados recursos.
+* Matriz Interativa: se der tempo, e se você tiver conhecimento de Figma, crie uma tabela interativa indo mais a fundo nas **categorias** e **critérios de usabilidade** (defina quais serão), de forma **Qualitativa**, fazendo *prints* dos produtos analisados e comentando sobre eles.
 
 ## 🤸‍♀️ Próximos passos
 
