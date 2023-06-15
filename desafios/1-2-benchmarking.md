@@ -14,7 +14,7 @@ Agora para dar seguência na **Pesquisa Referêncial**, vamos entender as princi
 
 Para isso, vamos realizar um **Benchmarking Funcional**.
 
-Dentre os diversos tipos de Benchmarking, é importante deixar claro que não será realizada uma **Análise Competitiva** que tem como perspectivas o negócio.
+Dentre os diversos tipos de Benchmarking, é importante deixar claro que não será realizada uma **Análise Competitiva** que tem como perspectiva: o negócio.
 
 Vamos focar no produto e entender suas funcionalidades. Daí o adjetivo "Funcional".
 
