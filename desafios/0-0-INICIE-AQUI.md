@@ -23,9 +23,10 @@ Mas você pode começar isso agora:
 ## 🚶‍♀️ Siga os passos:
 
 FASE 1: PESQUISA REFERÊNCIAL
-1. [Desk Research](desk-research.md);
-2. [Benchmarking](benchmarking.md);
-3. [Análise Heurística](analise-heuristica.md)
+
+1. [Desk Research](1-1-desk-research.md);
+2. [Benchmarking](1-2-benchmarking.md);
+3. [Análise Heurística](1-3-analise-heuristica.md)
 
 Demonstre que você tem **Curiosidade** para aprender, **Criatividade** para solucionar e sabe fazer uma **Comunicação** assertiva e clara.
 
